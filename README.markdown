@@ -250,7 +250,7 @@ CoolUiWidget widget =
 
 ### Line Length
 
-Lines should be not exceed 165 characters.
+Lines should not exceed 165 characters.
 
 
 ### Vertical Spacing
